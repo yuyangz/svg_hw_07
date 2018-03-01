@@ -1,3 +1,14 @@
+/*
+Yuyang Zhang
+
+SoftDev2 pd08
+
+HW07 -- Connect the Dots
+
+2017-02-28
+*/
+
+
 var container = document.getElementById("vimage");
 var cleared = document.getElementById("clear");
 var first = true;
